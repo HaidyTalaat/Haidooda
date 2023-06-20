@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Haidy
-- 👀 I’m interested in technology
-- 🌱 I’m currently learning CP And computer science
+- 👀 I’m interested in Computer science especially Artificial intelligence
+- 🌱 I’m currently learning CP 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
