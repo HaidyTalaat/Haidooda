@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Haidy
-- 👀 I’m interested in Computer science especially Artificial intelligence
-- 🌱 I’m currently learning CP 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I'm a copmputer Science Student 
+- 🌱 I’m currently learning Artificial Intelligence 
+
 
 <!---
 Haidooda/Haidooda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
