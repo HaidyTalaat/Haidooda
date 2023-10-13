@@ -23,12 +23,12 @@
 
 ### 🛠 &nbsp;Tech Stack
 ![c++](https://img.shields.io/badge/-c++-05122A?style=flat&logo=c++)&nbsp;
-![HTML](https://img.shields.io/badge/-object oriented programming-05122A?style=flat&logo=object oriented programming5)&nbsp;
+
 ![algorithms](https://img.shields.io/badge/-algorithms-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp;
+![data structure](https://img.shields.io/badge/-data structure-05122A?style=flat&logo=data structure)&nbsp;
 ![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
 
 
