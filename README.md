@@ -22,13 +22,17 @@
 <a href="https://www.linkedin.com/in/haidytalaat/" target="_blank"><img src="https://img.shields.io/badge/-haidy%20talaat-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 
 ### 🛠 &nbsp;Tech Stack
-![c++](https://img.shields.io/badge/-c++-05122A?style=flat&logo=c++)&nbsp;
 
-![algorithms](https://img.shields.io/badge/-algorithms-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Statistics](https://img.shields.io/badge/-Statistics-05122A?style=flat&logo=statistics)&nbsp;
+![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
+![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas)&nbsp;
+![Seaborn](https://img.shields.io/badge/-Seaborn-05122A?style=flat&logo=seaborn)&nbsp;
+![NumPy](https://img.shields.io/badge/-NumPy-05122A?style=flat&logo=numpy)&nbsp;
+![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=sqlite)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
+
+
 
 
 
