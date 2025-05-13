@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=AI%20Engineer%20|%20Passionate%20about%20AI%20and%20LLMs%20|%20Always%20learning%20and%20innovating!&font=Fira%20Code&center=true&width=500&height=45&color=f75c7e&vCenter=true&size=22">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=21&duration=4000&pause=1000&color=F75C7E&center=true&vCenter=true&width=580&height=45&lines=AI+Engineer+%7C+Passionate+about+AI+and+LLMs+%7C;Always+learning+and+innovating!">
   </a>
 </p>
 
@@ -36,7 +36,6 @@
 
 
 📧 Email: haidytalaat46@gmail.com
-
 ---
 
 ### 🛠️ Tech Stack 
