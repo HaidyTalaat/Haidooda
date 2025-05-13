@@ -1,9 +1,4 @@
-<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 
-<h3 align="center">
-  Welcome to Haidy Talaat's GitHub!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
@@ -36,19 +31,16 @@
   <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
+
 📧 Email: haidytalaat46@gmail.com
 
 ---
 
-### 🛠️ Tech Stack
-
-**Languages & Tools**  
+### 🛠️ Tech Stack 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=sqlite)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
-
-**Data Science & Machine Learning**  
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github) 
 ![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas)&nbsp;
 ![NumPy](https://img.shields.io/badge/-NumPy-05122A?style=flat&logo=numpy)&nbsp;
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-05122A?style=flat&logo=matplotlib)&nbsp;
@@ -56,14 +48,9 @@
 ![scikit-learn](https://img.shields.io/badge/-scikit--learn-05122A?style=flat&logo=scikit-learn)&nbsp;
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-05122A?style=flat&logo=tensorflow)&nbsp;
 ![PyTorch](https://img.shields.io/badge/-PyTorch-05122A?style=flat&logo=pytorch)&nbsp;
-![Streamlit](https://img.shields.io/badge/-Streamlit-05122A?style=flat&logo=streamlit)&nbsp;
-
-
-**NLP & LLMs**  
+![Streamlit](https://img.shields.io/badge/-Streamlit-05122A?style=flat&logo=streamlit)&nbsp; 
 ![Transformers](https://img.shields.io/badge/-Transformers-05122A?style=flat&logo=huggingface)&nbsp;
 ![LangChain](https://img.shields.io/badge/-LangChain-05122A?style=flat&logo=langchain)&nbsp;
-
-**Visualization Tools**  
 ![Plotly](https://img.shields.io/badge/-Plotly-05122A?style=flat&logo=plotly)&nbsp;
 
 ---
