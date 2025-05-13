@@ -8,11 +8,6 @@
 
 ---
 
-
-
-
----
-
 ### 👩‍💻 About Me
 
 - 🎓 I'm a senior AI student with a strong foundation in **machine learning**, **deep learning**, and **data science**.
