@@ -2,9 +2,11 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=21&duration=4500&pause=1500&color=F75C7E&center=true&vCenter=true&width=600&height=45&lines=Hi+I'm+Haidy+Talaat+%F0%9F%91%8B;AI+Engineer+%7C+Passionate+about+AI+and+LLMs+%7C;Always+learning+and+innovating!">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=800&color=F75C7E&center=true&vCenter=true&width=600&height=45&lines=Hi+I'm+Haidy+Talaat+%F0%9F%91%8B;AI+Engineer+%7C+Passionate+about+AI+and+LLMs+%7C;Always+learning+and+innovating!" />
   </a>
 </p>
+
+---
 
 
 
@@ -57,9 +59,3 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=haidytalaat&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haidytalaat&layout=compact&theme=tokyonight" height="180"/>
-</p>
